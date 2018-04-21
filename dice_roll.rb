@@ -1,4 +1,4 @@
-def roll
+def roll(1..6)
   rand(6) + 1
 end
 
